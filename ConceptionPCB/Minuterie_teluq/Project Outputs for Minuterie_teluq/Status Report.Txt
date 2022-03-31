@@ -1,0 +1,25 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Project [Minuterie_teluq.PrjPcb]
+   Generated File[PCB_Minuteire_Copper_Signal_Top.gbr]
+   Generated File[PCB_Minuteire_Copper_Signal_Bot.gbr]
+   Generated File[PCB_Minuteire_Pads_Bot.gbr]
+   Generated File[PCB_Minuteire_Pads_Top.gbr]
+   Generated File[PCB_Minuteire_Soldermask_Bot.gbr]
+   Generated File[PCB_Minuteire_Legend_Top.gbr]
+   Generated File[PCB_Minuteire_Soldermask_Top.gbr]
+   Generated File[PCB_Minuteire_Mechanical_2.gbr]
+   Generated File[PCB_Minuteire_Mechanical_1.gbr]
+   Generated File[PCB_Minuteire_Profile.gbr]
+   Generated File[PCB_Minuteire_PTH_Drill.gbr]
+   Generated File[PCB_Minuteire_Drawing_1.gbr]
+   Generated File[PCB_Minuteire_Drillmap_1.gbr]
+   Generated File[PCB_Minuteire.RUL]
+   Generated File[PCB_Minuteire.EXTREP]
+   Generated File[PCB_Minuteire.REP]
+
+
+Files Generated   : 16
+Documents Printed : 0
+
+Finished Output Generation At 1:53:42 PM On 2021-12-07

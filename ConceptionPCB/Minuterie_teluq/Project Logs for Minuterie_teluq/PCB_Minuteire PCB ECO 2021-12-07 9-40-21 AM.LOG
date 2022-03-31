@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=BACK Pin=SW1-2
+Removed Pin From Net: NetName=NetR1_2 Pin=SW1-3
+Removed Pin From Net: NetName=MOINS Pin=SW2-2
+Removed Pin From Net: NetName=NetR2_2 Pin=SW2-3
+Removed Pin From Net: NetName=PLUS Pin=SW3-2
+Removed Pin From Net: NetName=NetR3_2 Pin=SW3-3
+Removed Pin From Net: NetName=ENTER Pin=SW4-2
+Removed Pin From Net: NetName=NetR4_2 Pin=SW4-3
+Added Pin To Net: NetName=NetR1_2 Pin=SW1-2
+Added Pin To Net: NetName=BACK Pin=SW1-3
+Added Pin To Net: NetName=NetR2_2 Pin=SW2-2
+Added Pin To Net: NetName=MOINS Pin=SW2-3
+Added Pin To Net: NetName=NetR3_2 Pin=SW3-2
+Added Pin To Net: NetName=PLUS Pin=SW3-3
+Added Pin To Net: NetName=NetR4_2 Pin=SW4-2
+Added Pin To Net: NetName=ENTER Pin=SW4-3
